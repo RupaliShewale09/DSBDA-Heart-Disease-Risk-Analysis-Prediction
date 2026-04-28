@@ -34,7 +34,7 @@ This project focuses on analyzing heart disease risk factors and building a mach
 ## 🧠 ML Model
 
 - **Task:** Binary Classification (Heart Disease: Yes / No)
-- **Algorithm:** Logistic Regression 
+- **Algorithm:** Logistic Regression, KNN, Random Forest Classifier
 - **Evaluation Metrics:** Accuracy, Confusion Matrix, Classification Report
 
 ---
@@ -64,7 +64,7 @@ The Power BI report (`Heart_disease_risk_analysis.pbix`) includes:
    git clone https://github.com/RupaliShewale09/DSBDA-Heart-Disease-Risk-Analysis-Prediction.git
    ```
 2. Open `cleaning.ipynb` and run all cells to preprocess the data
-3. Open `model_creation.ipynb` and run all cells to train and evaluate the model
+3. Open `Heart Disease Risk Prediction.ipynb` and run all cells to train and evaluate the model
 4. Open `Heart_disease_risk_analysis.pbix` in Power BI Desktop to explore visualizations
 
 ---
